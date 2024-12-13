@@ -1,6 +1,15 @@
 
 # first-repo
 
+``` python
+
+def adder(alb):
+    return a+b
+
+If __name__ == ‘__main__’:
+    print(adder(3,4))
+```
+
 ## Index
 
 ## My Favorite python libraries
